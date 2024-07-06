@@ -1,5 +1,5 @@
-- Hi, I’m @StopMotionBros
-- I’m interested in game development and systems programing.
+- Hi, I’m IEatNickles
+- I’m interested in game development and systems programing
 - How to reach me: you can't
-- Fun fact: The closest star to the solar system, Alpha Centauri, is four light-years away, which means, interstellar travel will probably not be possible for a VERY long time :).
+- Fun fact: The closest star to the solar system, Alpha Centauri, is four light-years away, which means, interstellar travel will probably not be possible for a VERY long time :)
 - What I use: Vim (btw), C/C++, Rust, Unity
